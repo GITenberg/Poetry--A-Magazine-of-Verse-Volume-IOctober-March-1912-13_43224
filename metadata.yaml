@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42079'
     url: http://www.gutenberg.org/2009/agents/42079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43224#Poetry--A-Magazine-of-Verse-Volume-IOctober-March-1912-13
 gutenberg_bookshelf: Poetry, A Magazine of Verse
 gutenberg_issued: '2013-07-15'
 gutenberg_type: Text
